@@ -8,7 +8,7 @@
 
 **A simple utility to toggle battery conservation mode on Lenovo IdeaPad laptops**
 
-[Belarusian](README-be.md) • [English](README-en.md) • [Russian](README-ru.md)
+[Беларуская](README-be.md) • [English](README-en.md) • [Русский](README-ru.md)
 
 </div>
 
